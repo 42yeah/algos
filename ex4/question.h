@@ -11,6 +11,7 @@
 
 // Question: implement the functions.
 // The original question seems to be syntactically wrong; I am fixing it.
+// It's not like I don't want to keep my code consistent. This is the original code presented in the challenge, and I am not going to change a lot of it.
 
 typedef int ElemType;
 
